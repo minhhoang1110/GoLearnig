@@ -1,9 +1,3 @@
-module GoLearning
+module github.com/minhhoang1110/GoLearning
 
-go 1.16
-
-require (
-	cloud.google.com/go/firestore v1.5.0
-	github.com/gorilla/mux v1.8.0
-	google.golang.org/api v0.49.0 // indirect
-)
+go 1.17
